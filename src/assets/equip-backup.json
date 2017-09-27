@@ -1,0 +1,15 @@
+[ 
+    {"name":"Aviation","series":[{"name":"ship1","value":"42"},{"name":"ship2","value":"81"},{"name":"ship3","value":"225"}]},
+    {"name":"Communication","series":[{"name":"ship1","value":"138"},{"name":"ship2","value":"93"},{"name":"ship3","value":"258"}]},
+    {"name":"Damage Ctrl & Fire Fighting","series":[{"name":"ship1","value":"140"},{"name":"ship2","value":"155"},{"name":"ship3","value":"110"}]},
+    {"name":"Domestic Services","series":[{"name":"ship1","value":"622"},{"name":"ship2","value":"626"},{"name":"ship3","value":"843"}]},
+    {"name":"Hull","series":[{"name":"ship1","value":"69"},{"name":"ship2","value":"146"},{"name":"ship3","value":"274"}]},
+    {"name":"Medical","series":[{"name":"ship1","value":"17"},{"name":"ship2","value":"42"},{"name":"ship3","value":"36"}]},
+    {"name":"Navigation","series":[{"name":"ship1","value":"93"},{"name":"ship2","value":"99"},{"name":"ship3","value":"241"}]},
+    {"name":"Power Generation","series":[{"name":"ship1","value":"302"},{"name":"ship2","value":"330"},{"name":"ship3","value":"517"}]},
+    {"name":"Propulsion","series":[{"name":"ship1","value":"209"},{"name":"ship2","value":"461"},{"name":"ship3","value":"650"}]},
+    {"name":"Seamanship","series":[{"name":"ship1","value":"51"},{"name":"ship2","value":"81"},{"name":"ship3","value":"118"}]},
+    {"name":"Weapon","series":[{"name":"ship1","value":"288"},{"name":"ship2","value":"548"},{"name":"ship3","value":"762"}]}
+    
+   
+]
